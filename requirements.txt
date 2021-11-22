@@ -1,0 +1,7 @@
+certifi==2021.10.8
+pyqt5==5.9.1
+pip==21.2.4
+setuptools==58.0.4
+sip==4.19.13
+wheel==0.37.0
+wincertstore==0.2
